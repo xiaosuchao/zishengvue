@@ -1,0 +1,5 @@
+build/*.js
+config/*.js
+src/assets
+src/store/actions/msgs.js
+src/store/actions/initNimSDK.js

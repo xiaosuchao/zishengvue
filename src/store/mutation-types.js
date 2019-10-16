@@ -1,0 +1,5 @@
+export const SET_TOKEN = 'SET_TOKEN'
+export const setopenid = 'setopenid'
+export const setwechatinfo = 'setwechatinfo'
+export const setuserinfo = 'setuserinfo'
+export const setaccinfo = 'setaccinfo'
