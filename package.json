@@ -15,7 +15,7 @@
     "js-cookie": "2.2.0",
     "md5": "^2.2.1",
     "qs": "6.7.0",
-    "vant": "1.6.12",
+    "vant": "2.2.14",
     "vue": "2.6.2",
     "vue-infinite-scroll": "^2.0.2",
     "vue-router": "3.0.1",
